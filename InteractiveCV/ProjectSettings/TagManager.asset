@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Banner
+  - Ball
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Button
+  - ContainerProject
+  - Player
+  - Ball
+  - ContainerContact
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1144303937
+    locked: 0
+  - name: Ground
+    uniqueID: 2380679871
+    locked: 0
+  - name: Objects
+    uniqueID: 948763659
+    locked: 0
+  - name: Player
+    uniqueID: 1393104875
+    locked: 0
+  - name: GameUI
+    uniqueID: 4135323697
+    locked: 0
